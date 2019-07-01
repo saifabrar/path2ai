@@ -14,5 +14,6 @@
 1. [Data visualization course](https://www.edx.org/course/data-visualization-a-practical-approach-for-absolute-beginners-0)
 1. Learn about databases (SQL and no SQL)
 1. [Learn Hadoop & Spark](https://www.udemy.com/share/1000lU)
+1. [Practice on Kaggle](https://www.kaggle.com/)
 
 
