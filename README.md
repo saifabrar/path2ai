@@ -1,4 +1,4 @@
-#Path to A.I.
+# Path to A.I.
 
 1. Learn programming in Python (or R)
 1. Learn Numpy and Scipy for maths
