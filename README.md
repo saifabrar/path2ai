@@ -7,7 +7,7 @@
 1. Learn Matplotlib and Seaborn for data visualization.
 1. Read about Scikit-learn. It already implements lots of models that are black boxes to train and make predictions with directly. You can even tune the model’s parameters to suit your problem and get more accuracy.
 1. Read Chapter 2 in the book *Hands-On Machine Learning with Scikit-Learn & TensorFlow*
-1. [Linear Algebra knowledge](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+1. [Linear Algebra knowledge](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) helps to understand the advantages/disadvantages of different ML algorithms.
 1. [Statistics and probability knowledge](https://www.khanacademy.org/math/statistics-probability)
 1. [Calculus knowledge](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 1. [Andrew Ng’s free course on Coursera](https://www.coursera.org/learn/machine-learning)
