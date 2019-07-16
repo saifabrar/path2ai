@@ -1,5 +1,6 @@
 # Path to A.I.
 
+1. Get started on [basic concepts](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 1. Learn programming in Python (or R)
 1. Learn Numpy and Scipy for maths
 1. Learn Pandas for data manipulation and analysis.
